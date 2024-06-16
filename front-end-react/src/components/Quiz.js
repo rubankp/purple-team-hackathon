@@ -41,7 +41,25 @@ const Quiz = () => {
                   </button>
                 ))}
               </div>
-              {selectedAnswer && (
+             
+              {questionIndex + 1 !== quizs.length ? (
+                <button
+                  className="btn py-2 w-100 mt-3 bg-primary text-light fw-bold"
+                  onClick={nextQuestion}
+                  disabled={!selectedAnswer}
+                >
+                  Next Question
+                </button>
+              ) : (
+                <button
+                  className="btn py-2 w-100 mt-3 bg-primary text-light fw-bold"
+                  onClick={showTheResult}
+                  disabled={!selectedAnswer}
+                >
+                  Show Result
+                </button>
+              )}
+               {selectedAnswer && (
                 // <a
                 //   href={`${question.link.replace("<video_id>", youtubeId)}`}
                 //   rel="noreferrer"
@@ -59,24 +77,7 @@ const Quiz = () => {
                   }}
                   className="btn py-2 w-100 mt-3 bg-secondary text-light fw-bold"
                 >
-                  Go to Time
-                </button>
-              )}
-              {questionIndex + 1 !== quizs.length ? (
-                <button
-                  className="btn py-2 w-100 mt-3 bg-primary text-light fw-bold"
-                  onClick={nextQuestion}
-                  disabled={!selectedAnswer}
-                >
-                  Next Question
-                </button>
-              ) : (
-                <button
-                  className="btn py-2 w-100 mt-3 bg-primary text-light fw-bold"
-                  onClick={showTheResult}
-                  disabled={!selectedAnswer}
-                >
-                  Show Result
+                  Jump to Explanation in Video             
                 </button>
               )}
             </div>

@@ -24,7 +24,7 @@ export const DataProvider = ({children}) => {
     setQuestionLoading(true);
     const path = window.location.pathname.replace('/','')
     fetchQuestionsData(path)
-      .then(data => setQuizs(data.data.quiz.questions))
+      .then(data => setQuizs(data.data.quiz.questions ))
       .catch(error => console.error(error))
       .finally(() => setQuestionLoading(false));
   }, []);
@@ -50,7 +50,7 @@ export const DataProvider = ({children}) => {
 
       if (selected === question.answer) {
         event.target.classList.add('bg-success');
-        setMarks(marks + 5);
+        setMarks(marks + 1);
       } else {
         event.target.classList.add('bg-danger');
       }

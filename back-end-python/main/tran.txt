@@ -1,0 +1,891 @@
+0.0s  coming up on today's episode of the
+2.52s  airdrive podcast very recently I visited
+5.16s  a website they offered a full stack
+6.96s  course for about what some 9 10 11
+9.72s  months that course teaches you Java
+12.0s  python react and flutter I guess and
+15.299s  some other web development one of those
+17.22s  these things were optional and again the
+19.8s  course was pitched to people who are not
+21.66s  from Tech background and the course
+23.52s  price was somewhere in the range of 2.53
+27.24s  lakhs rupees this is total scam it is
+30.24s  outright scam I would say
+36.42s  welcome to the fourth episode of the
+38.34s  airtry podcast in today's episode we're
+41.1s  going to talk about why people hate edx
+43.379s  so dhaval what are we discussing today
+45.42s  let's discuss this Universal hate at
+48.12s  tech companies get from everybody
+50.879s  for various different reasons so why do
+52.92s  you think a tech companies get so much
+54.78s  hate a lot of reasons but I think one
+58.079s  major reason is the whole term ad Tech a
+61.079s  lot of companies end up prioritizing
+63.0s  Tech over education like even though I'm
+66.0s  a tech co-founder but I strongly believe
+68.1s  that education part is lot more
+70.08s  important in an attack company
+71.88s  Tech should be the enabler but a lot of
+75.659s  attacks just focus on creating Superior
+78.659s  Tech and they compromise on the
+80.28s  education quality altogether
+82.799s  I think that that's one major reason but
+85.799s  obviously there are few others I want to
+87.18s  talk about but do you want to share some
+89.34s  anything else before I go there I wanted
+91.14s  to like I'm curious now uh if you are
+94.2s  saying many attack companies prioritize
+96.299s  Tech over education
+98.88s  what could be the reason for that I'm
+101.04s  not sure I mean it all started with
+103.2s  whole um
+104.46s  moocs um
+106.619s  massively open online courses
+109.68s  um
+110.28s  with that whole Revolution uh I actually
+113.22s  like all of those platforms right and
+114.899s  they made sure that everybody and
+117.119s  anybody can have access to really high
+118.92s  quality education uh at a very very
+121.38s  cheap cost but then what followed after
+124.68s  that um
+126.119s  like people wanted to scale education
+128.52s  but inherently I feel that
+131.22s  moocs could scale but they also
+133.8s  compromised on other factors like
+135.36s  quality of Education was great but other
+137.879s  factors you need on with education uh
+140.7s  like we are learning mentorship
+143.84s  guidance from an instructor or from a
+147.06s  mentor all of those things are you
+148.8s  building soft skills all of those things
+150.599s  are not there uh when we talk about such
+153.239s  platforms so it again like you know I'm
+156.42s  not sure like you know it probably
+158.22s  the kind of funding they receive or the
+160.14s  VCS uh behind them there'll be a lot of
+163.98s  pressure for them to grow at all cost
+167.12s  and uh that would have compromised the
+170.34s  education part for sure because that
+172.019s  would have been the easiest thing to
+173.64s  compromise on why you said they were
+176.16s  able to give quality education but uh
+178.92s  not probably giving a great experience
+181.739s  in terms of mentorship or peer learning
+183.84s  and all that in my view great education
+186.06s  must include all of these yeah so
+189.36s  I think I should connect myself then
+191.459s  then it's not great education
+193.5s  I would say it's great content so they
+196.019s  were able to generate really high
+197.58s  quality content out there from like
+199.8s  somebody who is in USA who is that one
+203.099s  person who knows about something about
+205.8s  machine learning and I get to learn from
+207.78s  it it might not be possible for me to go
+210.12s  to USA and then learn from him but
+211.92s  because of that uh moocs system
+215.04s  available and multiple platforms are
+217.379s  there because of that I get the access
+218.879s  to that content so yeah I mean it's not
+221.34s  the education part but more on the
+223.2s  content side got it so one of those
+225.84s  platforms is Coursera and Coursera is a
+229.68s  very very good platform for high quality
+231.78s  education very interestingly it was
+233.819s  called mlclass.org before you know
+236.64s  before the name was even given and it
+239.4s  was 2012 I was still in college and
+242.22s  Android NG one of the professors at
+243.959s  Stanford he did this experiment what if
+246.659s  he opened up the class to people outside
+248.64s  of Stanford would people be interested
+251.36s  and uh
+253.26s  thousands of people actually showed
+254.819s  interest I was one of them and they took
+257.82s  the class A small percent of them
+259.739s  actually completed the class and they
+261.6s  started working on projects and they
+263.16s  started putting their code on GitHub and
+265.5s  elsewhere
+266.699s  it gave him the signal that something
+269.28s  like this might work it led to even more
+272.1s  professors and subject matter experts at
+274.74s  top universities from Stanford MIT
+277.86s  Princeton putting very high quality
+280.44s  programs on the internet but like you
+282.78s  said the quality here was more on the
+285.24s  content side
+286.62s  not necessarily on things that really
+289.199s  matters in offline
+291.3s  classroom which is engagement which is
+294.18s  attention to
+295.919s  to the students that collaboration that
+298.44s  happens when people come together who
+300.66s  work in projects together and build
+302.82s  interpersonal skills all those things
+304.62s  were missing also I guess the hate
+306.68s  towards these platform is still minimal
+309.66s  I would say uh but the kind of hate we
+312.06s  we see specifically for Indian startups
+316.139s  I don't want to name them right now uh
+318.3s  but we we see a huge
+321.259s  discomfort in the audience or they just
+323.88s  don't like talking about them they just
+325.86s  believe that these guys are scamming
+327.3s  people left right and Center uh there
+330.419s  are various reasons let's talk about
+331.86s  them very interesting uh what could be
+335.22s  the difference then initially you said
+336.6s  at Tech universally gets a lot of hate
+339.18s  now you are saying it's a lot more
+341.759s  pronounced in the case of Indian
+343.38s  startups does it have something to do
+345.72s  with the way some companies operate here
+348.479s  or is it related to the overall
+350.94s  psychology of uh the country itself you
+354.3s  know how we respond to massive success
+356.759s  stories because
+358.02s  in my view nobody cared about attack
+360.84s  until 2020. in 2020
+364.919s  when the covet pandemic started at tech
+368.1s  companies which were building behind the
+369.84s  scenes hardly getting any attention from
+372.12s  the investors they started raising
+374.1s  hundreds of millions of dollars
+376.08s  and they grew faster than every other
+378.12s  industry during that period
+380.039s  there was a huge bet everyone thought
+382.759s  the future of education is going to be
+385.199s  fully online and I think many companies
+388.86s  benefited from that or everyone joined
+391.8s  the bandwagon as it turns out everyone
+393.96s  was over optimistic about uh the change
+397.62s  in behavior of students learning online
+400.38s  they thought it was going to be long
+402.539s  term but most people went back to
+404.699s  offline education after the pandemic got
+406.919s  over I think it was a maybe a time for
+412.259s  uh you know a lot of people to say
+414.3s  things about attack because it was
+416.58s  growing really really fast and then it
+419.1s  stopped growing and people started
+421.139s  attributing you know the fall to
+422.94s  multiple reasons not just the change in
+425.28s  user Behavior which is much harder to
+426.96s  understand and uh much harder to you
+429.72s  know build Solutions around but I guess
+431.699s  there was some hate even before pandemic
+435.06s  started we had companies in India and
+437.94s  there was a lot of bad mouthing about
+439.56s  those companies why do you think so in
+441.479s  the primary reason is
+443.039s  um
+443.58s  a lot of misselling happening at that
+445.319s  company
+446.22s  they over promise and under deliver
+449.16s  multiple reasons again behind that like
+451.319s  probably the salesperson who is that uh
+455.4s  he has he's under immense pressure he is
+458.22s  doing whatever it takes to sell that
+459.96s  particular course or module or whatever
+462.36s  it is obviously if that's not being
+464.699s  delivered via the course via the attack
+467.22s  company uh the person who bought the
+470.039s  course they are they're not going to be
+471.72s  happy about it
+473.099s  right so that that's one major reason
+475.319s  second thing is this whole like in your
+479.46s  customer and the person who are you are
+482.46s  selling it to those two are different
+483.96s  personas here you're selling it to
+486.06s  parents but your actual customer is like
+488.4s  if you talk about K-12 and kids
+489.9s  education your customer is a kid
+492.3s  but you're selling it to parents
+494.52s  now it this is where things become very
+496.86s  very tricky right kid may or may not
+499.68s  want to
+500.52s  use your product may or may not like a
+502.5s  product uh but the parents you need to
+505.86s  show them different dreams about your
+508.259s  kid being successful and what not and I
+510.9s  don't want to even get into those World
+512.279s  Cup and all of those cases
+514.86s  um but yeah I mean we have heard about
+517.14s  those stories and seen what has happened
+519.599s  so I think it's the primary reason is
+522.479s  like you know the root cause is they
+525.42s  promising a lot of stuff and not being
+528.06s  able to deliver is the root of olive oil
+530.82s  I would say got it there is one thing I
+533.279s  can you know talk about from my
+535.08s  experience when I talk about over
+536.459s  promise under deliver I think one of the
+538.74s  biggest differences I have seen
+542.04s  um from my time in the US versus India
+544.32s  when it comes to attack companies very
+547.14s  interestingly many of the original mooc
+549.36s  platforms started in the US but some of
+551.7s  the largest edtech companies in the
+552.959s  world are actually now based in India
+555.0s  are mostly propelled by over optimism
+557.279s  around around time you know Kobe was
+560.7s  there and you know everyone was
+562.98s  um embedding on at tech companies in
+565.2s  India I have seen lots of companies
+566.94s  saying you know you do our course and
+569.16s  you will get a placement guarantee 100
+571.14s  placement guarantee this is not
+573.18s  something I have seen elsewhere
+575.04s  yeah and uh I think it has a lot to do
+578.04s  with the overall
+580.5s  aspiration of the Indian youth I think
+584.76s  you know there is so much of hunger in
+586.38s  the country so much of competition in
+588.36s  the country uh everyone wants to like
+590.82s  you know
+591.72s  be part of that one person who makes it
+594.06s  like they say in sales either you sell
+597.12s  hope or you sell fear and I think many
+600.36s  companies took the path of selling fear
+602.64s  instead of hope both Works in some cases
+605.76s  but lots of people join these programs
+609.48s  because they were afraid
+611.1s  if they don't join they don't upskill
+613.26s  themselves
+614.22s  I think lots of people were promised job
+616.92s  guarantee programs unlike top
+618.72s  universities whether India or elsewhere
+621.3s  in the world
+622.44s  these programs didn't have such high
+625.56s  selection criteria
+627.48s  so anyone could join either they had the
+631.08s  money or their parents had the money or
+633.6s  Banks had the money to give them Emi
+635.339s  options and like you know loans
+638.04s  all these people joined the programs
+639.72s  somehow because they wanted job
+641.64s  guarantees it's next to Impossible
+644.42s  guarantee a job
+646.38s  particularly in such a tight job market
+649.38s  and I think lots of people who went to
+651.36s  the experience they started bad mouthing
+653.579s  the industry and their experience and
+655.68s  the word of mouth eventually became
+657.959s  quite negative particularly around job
+660.0s  guarantee programs and I guess it's not
+661.92s  just because of the current economic
+664.56s  situation even without that like I don't
+667.74s  even see any good IIT I am giving like
+670.62s  they do share their stats that okay
+672.66s  there was 100 placement but when you
+674.7s  take an admission they definitely not
+677.399s  guarantee you that once you are enrolled
+679.92s  in a program you'll get 100 like you'll
+681.959s  get the job 100 for sure they don't do
+684.0s  that and I'm sure there is a reason
+685.74s  behind that because they also know that
+687.06s  it's
+688.079s  common sense right I mean it's very hard
+690.6s  for you to get a job
+693.36s  without working hard for in that program
+695.22s  without performing really well in that
+697.56s  program you need to do the hard work
+699.6s  without that it's just impossible for
+701.399s  you to get a job you can't just pay for
+703.2s  a program and expect that okay after
+705.66s  eight nine ten months uh I'll graduate
+708.18s  to the job that's not possible there are
+710.339s  definitely lots of students out there
+711.899s  who would want
+713.279s  to get into the program somehow but not
+716.82s  necessarily you know work hard to get
+718.44s  what you know get the role I usually
+720.54s  don't talk about other companies or the
+723.0s  startups or um
+725.16s  other other competitors of ours in this
+728.22s  space I actually admire them most of
+730.079s  them actually very recently I visited a
+732.0s  website
+733.079s  they offer a full stack course for about
+735.779s  what some nine ten eleven months that
+738.899s  course teaches you Java
+741.0s  python
+742.44s  react and flutter I guess and some other
+746.1s  app development and like one of one of
+748.079s  those these things were optional and
+750.12s  again the course was pitched to people
+751.76s  who are not from Tech background and the
+754.74s  course price was somewhere in the range
+757.38s  of 2.53 lakhs rupees this is total scam
+760.74s  it is outright scam I would say first of
+763.56s  all if somebody is coming from a
+765.24s  non-tech background they don't need to
+767.04s  learn all of those things the first even
+770.279s  before they get the job they don't need
+772.019s  to go through all of these things
+773.639s  they need to probably figure out one
+775.32s  single area either get into front end or
+777.54s  get into app development or get into
+779.1s  back-end development just do one thing
+781.079s  and do it really very well and then
+782.7s  figure out what you want to do
+784.44s  but then this course which is I'm sure
+786.48s  it is being sold to people
+788.82s  who do not even understand
+790.56s  um
+791.399s  Tech very very well who do not even know
+793.56s  what's the future scope looking like all
+796.38s  they want to do is that okay they want
+797.579s  to get into Tech and this course might
+799.68s  be helping
+800.94s  some people but
+802.56s  I I highly doubt that there are any out
+805.079s  possible outcomes from this course how
+807.72s  can you even charge uh so much money and
+811.079s  just stuff every random possible thing
+813.839s  around engineering and uh
+817.32s  like just make sure that because of you
+819.42s  have all of those keywords in your
+820.92s  program you can charge more and more
+823.38s  not just this the if you scroll down on
+826.86s  that page and you go to the instructor
+828.6s  section
+830.519s  you know somebody who has again nothing
+833.04s  against that person uh first of all
+835.92s  with that person is not in the industry
+838.92s  that person graduated some 25 30 years
+841.38s  back they are not working professional
+844.079s  they are probably teaching at some
+845.339s  college if they are teaching react.js I
+848.279s  really want to know what reactors they
+850.86s  are teaching right now
+852.48s  because there's there's so hands off
+854.88s  right now
+855.959s  they don't even
+857.94s  know what's the latest Trend in the
+860.76s  industry right now I'm not sure like
+862.5s  what kind of uh delivery they would be
+864.72s  doing what kind of uh stuff they would
+867.12s  be teaching in their program probably
+868.5s  sales I don't know but um this this like
+872.399s  this is not even miss selling or
+873.959s  anything like that this is outright scam
+876.24s  I would say but I can bet there is a
+878.76s  market for this like we say features
+880.74s  versus benefits in products maybe they
+884.88s  took the path of like you know talking a
+886.38s  lot about the features that they have
+887.82s  and uh that is definitely a market uh
+891.6s  where some students are looking to learn
+893.279s  all of this because they think it will
+895.26s  help them get a job uh but it couldn't
+898.199s  be for you know any further from truth
+900.0s  absolutely it's kind of unfortunate but
+902.639s  uh you know I have seen this happening
+904.98s  uh with multiple other attack platforms
+908.459s  you know because of this the whole at
+910.56s  tech industry gets the Heat
+912.959s  like when somebody goes to the program
+915.54s  they don't get the outcomes obviously
+917.579s  they are not going to get the outcomes
+919.139s  uh by going through such program then
+921.24s  they lose the whole faith on online
+922.74s  education on any certain uh other player
+926.22s  out there I guess it's just uh damages
+929.16s  the whole industry altogether like that
+931.5s  one player or such players doing such
+934.56s  practice bad practices right it it's
+937.44s  really short term good for them but uh
+939.6s  in the long term I think it's damaging
+941.16s  the whole industry let's take a step
+942.959s  back
+943.74s  and uh think about
+945.959s  how universities work their impact on
+948.54s  students let's talk about India there
+951.72s  may be not more than 20 30
+954.44s  bid colleges for engineering education
+957.24s  for example there are lots of tier two
+959.399s  tier three colleges if you talk about
+961.199s  any tier three College they also
+963.3s  probably you know uh promise a lot to
+966.06s  the students because they need to get
+967.56s  them admitted uh into the programs but
+970.38s  they end up not delivering
+972.6s  going by what you are saying that should
+975.12s  affect the overall
+977.04s  value of engineering education but uh
+979.32s  has it and they do deliver degree even
+981.66s  if it carries value or not but they
+983.76s  still get you the degree which is
+986.88s  we like it or not but that's the
+988.62s  unfortunate reality that degrees do
+990.899s  matter but they still matter uh in the
+993.66s  world of uh startups where so many
+995.399s  Founders on Twitter they talk about uh
+997.259s  we value skills uh over your degrees we
+1000.86s  don't even care which college you went
+1002.36s  to as long as you have the right set of
+1006.38s  skills and you do well in the interviews
+1009.259s  and if the question is do they matter to
+1012.259s  me or the starter Founders I don't think
+1015.079s  the answer is yes they don't matter but
+1018.44s  he says that like you know if you talk
+1020.42s  about when you're taking the admission
+1021.92s  in a uh in any such College you're
+1024.559s  definitely not thinking about a startup
+1026.179s  founder who will get give you a job yeah
+1028.459s  it's your parents who are deciding for
+1030.679s  you and they definitely do not know
+1032.12s  what's happening in the industry right
+1033.38s  now they're definitely far far away from
+1036.799s  what are the expectations companies will
+1039.559s  have
+1040.64s  so there I think there is a lot of
+1042.799s  influence from the parent side
+1046.16s  and um second thing is
+1049.52s  I still feel that the whole college
+1051.74s  experience is valuable
+1053.6s  as long as you go from you graduate from
+1055.94s  a good college
+1057.08s  I still don't tell you the degree as
+1059.84s  such but the college experience is still
+1061.82s  valuable I would not say that any Tech
+1064.22s  startup should go ahead and just replace
+1065.84s  b-tech education out there and they can
+1068.12s  easily do that the whole offline
+1069.679s  experience what you do get to uh learn
+1073.039s  for an example
+1074.36s  um in a hostel uh
+1077.36s  on top of the Core Curriculum you get to
+1079.7s  learn a lot of new things on top of the
+1082.52s  Core Curriculum you get to network
+1085.28s  those things are there available in like
+1087.98s  all good colleges will provide you with
+1089.539s  that but any quality here two three
+1092.539s  callers I don't think you get any of
+1094.46s  this so you talked about the benefits of
+1096.26s  offline education like you know uh they
+1098.179s  get to build uh a lot more skills not
+1101.24s  just the Core Curriculum that they go
+1103.28s  through I think when I was in college I
+1105.32s  saw lots of people participating in in
+1107.539s  college fests uh there were you know
+1109.94s  lots of college clubs where they could
+1111.5s  join to build specific skills in machine
+1113.6s  learning AI or robotics or uh you know
+1117.14s  if they wanted to experiment with uh
+1119.0s  building a car for that matter from
+1121.28s  scratch there were also you know
+1123.32s  different clubs for dance music
+1126.38s  um and all you know all these
+1127.58s  extracurricular activities I think all
+1129.14s  of that helps people you know helps the
+1131.9s  students to build a whole personality
+1134.72s  and discover their interests and also
+1137.36s  become a little more multifaceted which
+1140.059s  definitely helps during the interviews
+1141.799s  uh nobody wants to hire uh someone
+1144.5s  without
+1145.539s  perspectives and not just interviews I
+1147.919s  would say it helps in life
+1149.9s  that's true yeah you talked about a
+1152.0s  teacher uh teaching react.js but has
+1155.419s  like you know uh 23 years of experience
+1158.0s  and probably not exposed to what is
+1160.34s  going on at The Cutting Edge of
+1161.9s  Technology at this point of time
+1163.059s  react.js is still relatively new I think
+1165.799s  you would expect someone with written
+1167.539s  recent experience in the industry to
+1169.28s  teach it yeah but when I think about
+1171.62s  college education uh there also
+1174.799s  you you learn from professors who have
+1177.32s  been teaching for 20 30 years and uh
+1180.14s  many of them are not exposed to what's
+1182.059s  happening in the industry one more thing
+1183.799s  about education is that it's not just
+1186.26s  content download from the instructor to
+1189.44s  the learner
+1190.76s  right
+1191.84s  um
+1192.44s  so sticking another story I was taking
+1194.84s  an interview of a lady for one of the
+1197.36s  roles we had opened and she told me that
+1200.179s  um
+1200.9s  on their platform again she was working
+1202.94s  at another attack company they don't
+1204.44s  allow people to unmute in the live
+1206.12s  session live sessions were happening on
+1207.86s  Zoom so it was just a one-way delivery
+1210.2s  from the instructor or they would call a
+1212.419s  trainer trainer to uh the Learners and
+1216.98s  uh
+1217.88s  I was thinking what's the point of
+1219.38s  anybody joining a live session like that
+1221.66s  if it is going to be
+1223.52s  a one-way delivery you would rather
+1225.679s  watch a YouTube video which is very very
+1228.14s  well short which is uh there's somebody
+1230.84s  who has actually prepared content for
+1232.94s  those five 10 20 30 minutes of content
+1235.4s  which is very very well prepared you
+1237.08s  would rather watch that then join a
+1239.299s  session where you again it's like a
+1240.679s  Netflix mode
+1242.36s  um you just watch and try to understand
+1244.82s  uh whatever you can but the problem is
+1247.22s  that education is not just about content
+1249.62s  download it's also about mentoring it's
+1252.2s  also about inspiring
+1254.12s  people it's also about giving them a
+1256.58s  safe space where they can open up they
+1258.799s  can be vulnerable
+1260.36s  but I think all of these attacks again
+1263.78s  I'm I'm guessing the reason behind that
+1266.6s  is skill
+1268.16s  they wanted to scale and they had to put
+1270.32s  in a lot of standardization but again it
+1272.48s  everything came at the cost of Education
+1275.48s  high quality education
+1277.16s  and now I think and because of that the
+1280.82s  outcomes are not great and uh the kind
+1284.24s  of quality of people who graduate from
+1286.28s  the program I think that also I don't
+1288.86s  think
+1290.0s  the quality will be that great so like
+1291.98s  you said there is definitely some
+1293.72s  tension between
+1294.98s  scale and quality
+1297.799s  and I think a lot of companies
+1301.179s  in this space they over optimized for
+1303.98s  scale and not enough for quality
+1308.299s  and I think it also has a lot to do with
+1311.0s  who gets to raise funding it's a
+1313.28s  different tangent to talk about but I
+1314.78s  still wanted to bring it up because it's
+1316.1s  very important to our conversation today
+1318.559s  which is tech companies get a lot higher
+1321.2s  valuation than traditional companies and
+1324.5s  I think everyone wanted to raise Capital
+1327.38s  to grow faster and uh
+1330.799s  that pitch around Tech the the pitch
+1333.38s  around
+1334.7s  scalability was very very important
+1336.88s  probably What affected uh
+1340.22s  the quality on some of these platforms
+1342.86s  having said that
+1344.299s  I think there is good news uh I have
+1347.6s  seen and I am surprised by
+1350.84s  what I would call the third generation
+1352.4s  of actor companies in India they are all
+1355.1s  around communities they are all around
+1356.6s  mentorship where the focus is on
+1359.059s  increasing participation from
+1360.679s  instructors mentors Learners uh in these
+1363.559s  programs the focus is on driving
+1366.02s  dialogue as part of the life sessions
+1367.76s  instead of
+1369.14s  uh content delivery and downloads
+1372.02s  there are many such platforms Air Drive
+1374.0s  is just one of them we are not the only
+1375.74s  one doing it that's good news for the
+1377.48s  learners
+1378.5s  the more options they have in the market
+1380.179s  the better quality we will be able to
+1382.039s  deliver eventually because competition
+1384.14s  definitely drives better quality
+1385.84s  absolutely yeah and these platforms do
+1389.0s  look class apart than the
+1392.0s  traditional edtech companies out there
+1394.159s  in the market and if I were to name them
+1396.32s  like let's say if you talk about growth
+1398.419s  hacks if you talk about 10K designers if
+1401.12s  you talk about stowa
+1402.799s  all of these programs look class apart
+1405.32s  than the other attack players other
+1408.26s  giant that Tech players out there in the
+1409.94s  market even their websites look very
+1411.559s  different yeah people say the same thing
+1413.9s  about our website
+1415.28s  but it's very interesting if you go to
+1417.44s  the websites of any of these players
+1419.12s  that we you know just named they look a
+1421.7s  lot more focused on people in community
+1424.059s  communities driving conversations and
+1427.4s  they all talk about uh outcomes but uh
+1431.299s  they never undervalue the effort and the
+1434.48s  time it takes for a learner to reach the
+1436.7s  outcomes
+1437.539s  very interestingly all these companies
+1439.4s  do not fit the category of hyper growth
+1441.62s  companies at this point of time but my
+1444.5s  belief is this is probably the right
+1446.36s  approach all of them are building the
+1448.52s  fundamental building blocks of the next
+1451.22s  generation of attack companies and once
+1454.159s  they hit the infection point I think all
+1456.44s  of them will start growing rapidly from
+1458.36s  there yeah and the Parallels for that
+1462.44s  would be how communities like
+1464.6s  Reddit and coragrio they started small
+1467.96s  they took years to reach critical mass
+1470.0s  before they started exploring in
+1472.7s  popularity both of us had very short
+1475.4s  stint at an academy I guess six and nine
+1477.86s  months respectively let's talk about an
+1480.08s  academy what are the views on an academy
+1483.2s  going offline that's a tough one but I
+1486.32s  will try an academy going offline at
+1488.539s  this scale is a clear indicator students
+1491.74s  loved offline learning I think everyone
+1495.62s  in the ecosystem overblue the impact of
+1499.1s  covet and how students are going to
+1501.919s  learn in the future as it turns out an
+1504.62s  academy saw
+1505.88s  all these offline players like akas
+1507.98s  Institute and others doing so much
+1510.5s  better than them
+1512.059s  post covered and I think they had a
+1516.02s  decision to make either continue the
+1518.24s  same Journey with their core test prep
+1521.059s  product and keep losing subscribers or
+1524.12s  take the hard decision and do what they
+1527.0s  never wanted to do yeah I think the
+1529.64s  whole company started because they
+1531.5s  wanted to bring
+1532.88s  offline coaching online yeah I actually
+1536.0s  applaud the Bold move that they took by
+1539.0s  going all in on offline because that's
+1541.82s  exactly what they originally wanted to
+1544.1s  disrupt yeah but when it comes to
+1546.74s  startups and success of startups long
+1549.08s  term either you disrupt or you get
+1551.12s  disrupted and to survive in the face of
+1555.86s  most of their other products not working
+1558.74s  out
+1559.76s  they had to ensure that their core test
+1562.88s  prep product continues to do well and
+1565.64s  the only legit path
+1567.559s  I guess they had going forward was to
+1570.44s  open these offline centers back to back
+1572.6s  and based on what I know I think that
+1576.08s  business is doing really well now and uh
+1579.02s  because of which they might be able to
+1581.48s  figure out other products other
+1583.64s  sustainable business models uh you know
+1586.159s  in the near future
+1587.659s  but it says something really really big
+1590.779s  about uh how the attic in India has
+1593.48s  evolved one important thing to
+1595.88s  understand here is much of their
+1597.74s  disruption in attack post covet has been
+1600.86s  in
+1601.82s  kids education
+1603.44s  or K-12 or test prep but when it comes
+1606.5s  to professional upskilling courses which
+1609.08s  platforms like upgrade and others focus
+1611.299s  on including air Drive we haven't seen
+1613.82s  much impact yeah I think the reversal of
+1617.419s  kovid hasn't impacted much only the one
+1620.36s  thing which we do feel is uh time
+1624.98s  earlier people had a lot of time they
+1626.9s  were not going to office and uh
+1630.98s  we had the flexibility of scheduling
+1632.9s  sessions at multiple different times now
+1636.62s  I think we are losing that flexibility
+1638.26s  but overall I mean on the business side
+1641.779s  it's just growing uh
+1644.24s  and there is solid reason behind that
+1646.039s  right it's very easy to get a good
+1648.62s  English teacher in your locality it's
+1650.779s  very easy to get a good match teacher in
+1652.64s  your locality but
+1654.08s  I don't think it's that easy to get a
+1656.179s  good node.js react or database expert in
+1659.539s  your locality
+1660.679s  and the kind of audience we are talking
+1664.1s  about here which is maybe they are
+1665.9s  working professionals I don't think they
+1667.46s  even want to go to an offline coaching
+1670.279s  Center anymore
+1671.779s  um
+1672.62s  and want to learn from somebody who is
+1675.559s  not the best in the industry right now
+1677.12s  these people definitely want to learn
+1678.799s  from an expert they would definitely
+1680.419s  want to learn from somebody who is day
+1682.46s  in day out practicing these skills I
+1684.08s  would not discard the offline education
+1685.64s  setup as well though
+1687.46s  McMasters Union is a very solid example
+1690.02s  right and they are getting the best
+1692.14s  industry experts out there
+1694.7s  from various different places uh flying
+1697.52s  into their facility and driving those
+1700.94s  programs and I think that program is the
+1703.279s  core program is getting really good
+1705.559s  feedback from the industry from the
+1708.2s  Learners and they're also able to drive
+1709.82s  you very solid outcomes
+1711.5s  yeah one more reason attack gets a lot
+1714.02s  of it is also because people think that
+1716.72s  um education has to be free similar to
+1719.48s  what they believe for
+1721.22s  Healthcare as well I guess where they
+1723.5s  feel that Healthcare education and
+1726.2s  everything is a basic necessity and it
+1728.6s  has to be free
+1729.679s  what are your views on that I don't
+1731.419s  think so why
+1733.039s  because it pays the bills for all of us
+1735.7s  that's true
+1737.72s  but uh on a serious note
+1740.299s  I remember the origin story of Google
+1742.4s  when
+1744.08s  Larry Page wrote one of his biggest
+1747.26s  learnings in life was
+1749.12s  to drive impact you have to be
+1751.36s  self-sustainable and uh
+1754.52s  I have long believed
+1756.679s  if you really want to drive impact
+1759.5s  at scale we have to find a business
+1761.96s  model that actually pays the bills
+1765.2s  so that everyone has enough time and
+1767.72s  motivation to drive impact and I'm
+1769.88s  talking at the company level
+1771.559s  but when you think from learner's point
+1773.299s  of view
+1774.26s  I very strongly believe they have to
+1777.14s  have skill in the game just like when
+1779.299s  they go for good college in India people
+1782.48s  end up paying uh 6 to 10 lakhs for a
+1785.779s  good b-tech education but when it comes
+1788.24s  to us people end up paying hundreds of
+1791.659s  thousands of dollars
+1792.98s  they put skin in the game
+1794.96s  and they work hard with the hope that
+1798.14s  they will get an outcome and most people
+1799.64s  end up getting an outcome if they go to
+1801.86s  good college and they work hard
+1803.899s  the same has to be applicable in online
+1806.6s  education
+1807.74s  that's what I believe having said that
+1810.86s  I also believe
+1812.36s  for people like us who come with a tech
+1814.52s  background and want to create impact
+1817.399s  with
+1819.32s  attack I think it's important for us to
+1822.14s  also understand that we have a strong
+1824.84s  responsibility to figure out ways to
+1827.36s  make it more accessible and more
+1829.1s  affordable and not just for Learners
+1831.08s  right even for our instructors and
+1833.12s  mentors so if you're paying them which
+1836.12s  is something we can only do if we are
+1838.279s  charging our learners if you're paying
+1840.38s  our instructors and mentors we can also
+1842.0s  keep them accountable we can control the
+1844.58s  quality of the education
+1846.38s  they'll also be motivated enough to
+1847.88s  deliver their best and it makes sense
+1849.74s  because the time of this mentors and
+1851.84s  instructors who are you know industry
+1854.059s  practice nurse and who are paid really
+1856.82s  well in their full-time jobs they have
+1859.64s  to be
+1860.96s  rewarded for their time and effort yep
+1863.12s  on these platforms otherwise what
+1865.399s  incentive would they have apart from
+1867.32s  giving back to the community you know to
+1869.36s  keep coming back for these courses
+1872.6s  it sounds nice to you know
+1875.299s  here many people are willing to give
+1877.64s  back to the community but I think uh at
+1880.279s  the end of the day everyone values their
+1882.799s  time yeah true one more reason there is
+1885.74s  a lot of hate about attack is because
+1888.74s  people think that there is not much
+1890.779s  Innovation here they feel that whatever
+1892.34s  is working in offline they just moved it
+1895.22s  to online setup and they try to scale it
+1897.44s  with the help of Technology but I guess
+1899.419s  there is also a problem with our
+1901.46s  education system the current education
+1903.559s  system is up
+1905.0s  it is designed to produce
+1907.7s  obedient workers but it is not designed
+1910.64s  to produce critical thinkers
+1912.62s  the whole system around grading
+1915.919s  test
+1917.299s  and everything
+1918.86s  it doesn't really test the knowledge it
+1922.039s  probably tests the memory part and I
+1924.26s  don't think that's a good way
+1925.76s  of judging anybody
+1928.82s  but that's how the whole education
+1930.559s  system is designed and ethics
+1932.84s  not all but most of the ethics are not
+1934.82s  trying to redefine that
+1936.559s  they are just trying to build so that
+1938.419s  okay you can get good grades they are
+1940.22s  just trying to optimize for that and
+1941.539s  they are not trying to rethink the whole
+1943.52s  education part and that's also where I
+1945.98s  feel that there is lot of it coming in
+1947.6s  for education online education that
+1950.0s  because they have the technology power
+1951.44s  they could probably just think the
+1953.48s  education from grounds up and rethink
+1956.24s  the whole new model but that's
+1958.52s  definitely not happening right now it
+1960.2s  will be much much harder to think from
+1961.7s  the ground up and uh part of the reason
+1964.82s  for that is most at the companies are
+1967.88s  started by people in Tech
+1969.679s  not by people in education education
+1972.5s  reformists think very differently they
+1974.84s  come out with uh new ways of learning
+1977.48s  and teaching there is a philosophy there
+1979.88s  is a framework that they have developed
+1982.1s  over the years but that's not how all
+1984.86s  these attack companies get started their
+1987.32s  strength is technology not understanding
+1989.659s  the nitty-gritty of how people really
+1991.52s  learn
+1992.48s  and doing that is the harder part that's
+1995.419s  why I think some of my favorite attack
+1997.94s  companies around the world I can talk
+2000.34s  about one example here by the way have
+2002.2s  you heard of this interesting startup in
+2003.58s  the U.S called synthesis yeah I was
+2006.64s  following them on Twitter they were
+2008.559s  making a lot of noise on Twitter I think
+2010.059s  during the pandemic but uh the core idea
+2013.539s  is very fascinating it talks about uh
+2016.299s  getting lots of you know uh kids to
+2020.2s  participate in games games designed to
+2023.98s  build their critical skills build their
+2026.559s  collaboration skills and it was
+2028.899s  originally started as an experiment at
+2031.179s  SpaceX supposed to help families of
+2035.74s  employees working at SpaceX they
+2038.32s  recently opened up to the wider world so
+2040.72s  I do think there are some companies
+2042.519s  which took a very different route like
+2045.1s  this one but they tend to grow really
+2047.32s  slowly in the beginning
+2048.94s  and uh I think education is one of those
+2051.94s  areas where it takes time to validate
+2055.48s  your core hypothesis
+2057.04s  around an Innovative approach and uh
+2060.46s  Founders the leaders have to be patient
+2062.7s  yep instead of taking the shortcuts
+2066.04s  because creating impact always takes
+2068.74s  time
+2069.76s  and it's hard yeah anything worth doing
+2072.22s  is hard and with that we come to the end
+2074.56s  of this episode I hope you enjoyed we'll
+2076.78s  see you in the next one

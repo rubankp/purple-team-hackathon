@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { fetchSummary } from "../utils";
+import { extractHTML, fetchSummary } from "../utils";
 import DataContext from "../context/dataContext";
 
 function Summary() {
@@ -10,7 +10,7 @@ function Summary() {
   useEffect(() => {
     setLoading(true);
     fetchSummary(youtubeId)
-      .then((data) => setSummary(data.data.summary))
+      .then((data) => setSummary(extractHTML(data.data.summary)))
       .catch((error) => console.error(error))
       .finally(() => setLoading(false));
   }, [youtubeId]);
